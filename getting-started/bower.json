@@ -1,5 +1,6 @@
 {
   "name": "basics",
+  "version": "0.0.1",
   "dependencies": {
     "jquery": "^3.0.0",
     "lodash": "^4.13.1"
